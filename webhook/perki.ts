@@ -34,7 +34,7 @@ export class Perki {
   ): Promise<void> => {
     /** construct template. */
     const message = new Template(
-      "perki_christmas_hello",
+      "perki_christmas_reminder",
       new Language("id"),
       new HeaderComponent(new HeaderParameter("NATAL PERKI AACHEN 2024")),
       new BodyComponent(
