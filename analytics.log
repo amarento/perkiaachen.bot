@@ -1,0 +1,26 @@
+[2024-10-15T19:52:14.023Z - info] Server is listening on port: http://localhost:3000
+[2024-10-15T19:52:49.311Z - info] Initial message sent successfully.
+[2024-10-15T19:52:49.760Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4915901993904","wa_id":"4915901993904"}],"messages":[{"id":"wamid.HBgNNDkxNTkwMTk5MzkwNBUCABEYEkUxN0MwOTc3MzlBRDQwNzY3MgA=","message_status":"accepted"}]}
+[2024-10-15T19:52:49.775Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4915237363126","wa_id":"4915237363126"}],"messages":[{"id":"wamid.HBgNNDkxNTIzNzM2MzEyNhUCABEYEjBCQjEzQTdBNDMyMThFNDAzNgA=","message_status":"accepted"}]}
+[2024-10-15T19:52:49.813Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4917634685672","wa_id":"4917634685672"}],"messages":[{"id":"wamid.HBgNNDkxNzYzNDY4NTY3MhUCABEYEjlDNDJBNEY4QzY3MThGNjM2QgA=","message_status":"accepted"}]}
+[2024-10-15T19:52:49.815Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4915256917547","wa_id":"4915256917547"}],"messages":[{"id":"wamid.HBgNNDkxNTI1NjkxNzU0NxUCABEYEjdEM0EzQ0I1RTkzMjE4QzAxQgA=","message_status":"accepted"}]}
+[2024-10-15T19:53:59.171Z - info] Creating QR code for guest with id 1115
+[2024-10-15T19:53:59.693Z - info] Invitation with the name ./invitations/qr-PERCHR2024-1115.png was successfully generated.
+[2024-10-15T19:54:01.016Z - info] Media with id 479825268367570 was successfully uploaded.
+[2024-10-15T19:54:01.404Z - info] Reminder message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4915237363126","wa_id":"4915237363126"}],"messages":[{"id":"wamid.HBgNNDkxNTIzNzM2MzEyNhUCABEYEjVEOTk2QTFBNEQ3N0E5RkFCQgA=","message_status":"accepted"}]}
+[2024-10-15T20:44:33.020Z - error] 401
+[2024-10-17T18:40:26.156Z - info] Server is listening on port: http://localhost:3000
+[2024-10-17T18:46:41.745Z - info] Initial message sent successfully.
+[2024-10-17T18:46:42.880Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4915256917547","wa_id":"4915256917547"}],"messages":[{"id":"wamid.HBgNNDkxNTI1NjkxNzU0NxUCABEYEjUyNkVDQzMzQjg5OUE4NUMxMwA=","message_status":"accepted"}]}
+[2024-10-17T18:46:42.883Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4915901993904","wa_id":"4915901993904"}],"messages":[{"id":"wamid.HBgNNDkxNTkwMTk5MzkwNBUCABEYEjQzRDc3ODgwQTY5M0IyM0RDMQA=","message_status":"accepted"}]}
+[2024-10-17T18:46:42.888Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4917634685672","wa_id":"4917634685672"}],"messages":[{"id":"wamid.HBgNNDkxNzYzNDY4NTY3MhUCABEYEjlBNTQ2QUM0QTNDODAxNjUxQgA=","message_status":"accepted"}]}
+[2024-10-17T18:46:42.890Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"491234567899","wa_id":"491234567899"}],"messages":[{"id":"wamid.HBgMNDkxMjM0NTY3ODk5FQIAERgSQjc1NjFDMTREM0UxOEE4RkVFAA==","message_status":"accepted"}]}
+[2024-10-17T18:46:42.892Z - info] Initial message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4913123123123","wa_id":"4913123123123"}],"messages":[{"id":"wamid.HBgNNDkxMzEyMzEyMzEyMxUCABEYEkJFMjFGMUVENDE0OTVEMTBCMQA=","message_status":"accepted"}]}
+[2024-10-17T18:47:59.075Z - info] Creating QR code for guest with id 1118
+[2024-10-17T18:47:59.565Z - info] Invitation with the name ./invitations/qr-PERCHR2024-1118.png was successfully generated.
+[2024-10-17T18:48:01.343Z - info] Media with id 784495463740233 was successfully uploaded.
+[2024-10-17T18:48:01.999Z - info] Reminder message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4915256917547","wa_id":"4915256917547"}],"messages":[{"id":"wamid.HBgNNDkxNTI1NjkxNzU0NxUCABEYEjY0NjY0NkZDOURBRTM0NjY5NQA=","message_status":"accepted"}]}
+[2024-10-17T18:50:00.699Z - info] Creating QR code for guest with id 1117
+[2024-10-17T18:50:01.242Z - info] Invitation with the name ./invitations/qr-PERCHR2024-1117.png was successfully generated.
+[2024-10-17T18:50:03.383Z - info] Media with id 1233349487987000 was successfully uploaded.
+[2024-10-17T18:50:03.910Z - info] Reminder message sent with response. {"messaging_product":"whatsapp","contacts":[{"input":"4917634685672","wa_id":"4917634685672"}],"messages":[{"id":"wamid.HBgNNDkxNzYzNDY4NTY3MhUCABEYEjBCMkM3Njg3ODUyMzM5NzE3NwA=","message_status":"accepted"}]}
