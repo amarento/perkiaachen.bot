@@ -4,6 +4,12 @@ Content-Type: application/json
 
 { "clientCode": "PERCHR2024" }
 
+### send initial message
+POST http://localhost:3000/api/send-initial-message
+Content-Type: application/json
+
+{ "clientCode": "PERCHR2024" }
+
 ### send reminder with qr
 POST http://localhost:3000/api/send-reminder
 Content-Type: application/json
